@@ -1,6 +1,6 @@
 module.exports = {
-  base: '/Blog/',
-  title: 'mengjie前端开发',
+  base: '/vuepress-blog/',
+  title: '孟杰前端博客',
   description: '一个努力的码农',
   serviceWorker: true,
   head: [['link', {rel: 'icon', type: 'image/x-icon', href: '/img/icon.png'}]],
